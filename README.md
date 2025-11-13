@@ -28,7 +28,7 @@
 
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**  
-- معماری: MVVM (در حال تکمیل)  
+- معماری: MVVM  
 - کتابخانه‌ها: AndroidX، View Binding، Glide، OkHttp، org.json، Calligraphy، Material Components 
 - فونت فارسی: Vazir Medium  
 
@@ -40,8 +40,7 @@
    git clone https://github.com/erfanhspr-04/Android-Projects.git
 
 
-2. پروژه را د رAndroid Studio باز کنید.
-3. فایل local.properties را بسازید و کلید API را اضافه کنید (در صورت نیاز)
+2. پروژه را در Android Studio باز کنید.
 4. Run کنید.
 
 نکته: در نسخه فعلی داده‌ها به صورت زنده از OpenWeatherMap دریافت می‌شوند.
@@ -53,6 +52,7 @@ GitHub: @erfanhspr-04
 
 
 اگه پروژه براتون مفید بود، لطفاً یک ⭐ ستاره بزنید!
+
 
 
 
