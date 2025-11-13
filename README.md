@@ -21,8 +21,8 @@
 **ظاهر برنامه فعلی**
 
 
-![alt text](image-2.png)
-![Uploading image-1.png…]()
+<img width="385" height="812" alt="image-1" src="https://github.com/user-attachments/assets/64f40ea8-724a-4266-8fa9-f625e9630d35" />
+
 
 ---
 
@@ -52,5 +52,6 @@ GitHub: @erfanhspr-04
 
 
 اگه پروژه براتون مفید بود، لطفاً یک ⭐ ستاره بزنید!
+
 
 
