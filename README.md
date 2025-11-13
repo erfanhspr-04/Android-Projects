@@ -2,7 +2,6 @@
 
 یک برنامه اندرویدی زیبا و سریع برای نمایش وضعیت آب و هوای **ارومیه، تبریز، اردبیل و زنجان** با داده‌های زنده از OpenWeatherMap.
 
-<img src="https://raw.githubusercontent.com/erfanhspr-04/Android-Projects/main/app/src/main/res/drawable/urmia_image.jpg" width="300"/>
 
 ---
 
@@ -52,6 +51,7 @@ GitHub: @erfanhspr-04
 
 
 اگه پروژه براتون مفید بود، لطفاً یک ⭐ ستاره بزنید!
+
 
 
 
